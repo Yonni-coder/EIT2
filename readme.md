@@ -20,4 +20,4 @@ python3 matrix.py
 
 License: MIT
 
-Author: TINOGNY Yonni (@Yonni-coder)
+Author: Yonni (@Yonni-coder)
